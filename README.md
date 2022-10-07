@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: **react, typescript, and rust**
 - 📫 How to reach me: **chris@choi.is**
 - 😄 Pronouns: **He/They**
-- ⚡ Fun fact: **I am fascinated by complex biological systems, specifically the brain. I used to work in research labs.**
+- ⚡ Fun fact: **I am fascinated by complex biological systems, specifically the brain. I was involved in neuropsychiatric research in a previous life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
