@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris 🧑🏻‍💻</h1>
-<h3 align="center">A curious, passionate software developer from San Diego, CA 🌅</h3>
+<h3 align="center">A curious software developer from San Diego, CA 🌅</h3>
 
 - 🌱 I’m currently learning: **react, typescript, and rust**
 - 📫 How to reach me: **chris@choi.is**
